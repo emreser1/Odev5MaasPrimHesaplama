@@ -1,1 +1,0 @@
-# Odev5MaasPrimHesaplama
